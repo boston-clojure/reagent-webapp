@@ -6,7 +6,7 @@ Reagent is a popular Clojurescript library based on Facebook's React JS. The pre
 Resources
 ---------
 
-View the presentation  at _placeholder_
+View the presentation  at http://boston-clojure.github.io/reagent-webapp/
 
 Demo source code is available at _placeholder_
 
